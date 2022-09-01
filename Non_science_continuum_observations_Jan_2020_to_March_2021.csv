@@ -1,0 +1,122 @@
+ProposalId,CaptureBlockId,Description,Duration,CAS.ProductTransferStatus,Public,NumFreqChannels,Targets,MinFreq,MaxFreq,RMSNoise
+COM-20210331-SP-01,1617190375,Astrometry and Delay Testing  New Delays : Continuum image,,ARCHIVED,,,J2147-8132,,,7.65364893595688E-5
+COM-20210331-SP-01,1617186225,Astrometry and Delay Testing 1st test old delays: Continuum image,,ARCHIVED,,,J2147-8132,,,3.7074543797643855E-5
+COM-20200106-SP-01,1616579584,DEEP2 offset: J0358-8103 pipeline 32k testing (24-03-2021) copy: Continuum image,,ARCHIVED,,,J0358-8103,,,2.0260406017769128E-5
+ENG-20210209-SP-01,1613547617,SDP Engineering Spectral Line Test 17/02/2021 32k: Continuum image,,ARCHIVED,,,J0358-8103,,,1.1784244634327479E-5
+ENG-20210209-SP-01,1612950854,SDP Engineering Spectral Line Test 10/02/2021. 32k: Continuum image,,ARCHIVED,,,J0358-8103,,,2.441832475597039E-5
+COM-20201216-VK-01,1609527668,Long track on J0408-6545 (UHF-band): Continuum image,,ARCHIVED,,,J0408-6545,,,3.7230897578410804E-4
+COM-20201216-VK-01,1609439464,Long track on J0408-6545 (UHF-band): Continuum image,,DELETED,,,J0408-6545,,,3.36409080773592E-4
+COM-20201216-VK-01,1608925638,Long track on J0408-6545 (L-band): Continuum image,,ARCHIVED,,,J0408-6545,,,4.254280429449864E-5
+COM-20201216-VK-01,1608830172,Long track on J0408-6545 (L-band): Continuum image,,ARCHIVED,,,J0408-6545,,,1.7145252058980986E-5
+COM-20200106-SP-01,1608036557,DEEP2 offset: J0358-8103 pipeline 32k testing: Continuum image,,ARCHIVED,,,J0358-8103,,,1.077873366739368E-5
+COM-20201110-SB-01,1605060912,RFI search near pulsar J1017-7156: Continuum image,,ARCHIVED,,,J1017-7156,,,6.348637271003099E-6
+COM-20200324-SG-01,1601818525,Observation of G330.89-0.36 in 54MHz mode to test new filter: Continuum image,,RECEIVED,,,G330_89-0_36,,,1.4607427874580026E-4
+COM-20191128-DH-01,1600348047,MeerTRAP: Continuum image,,ARCHIVED,,,J1210-5226,,,3.432660014368594E-5
+COM-20191128-DH-01,1600348047,MeerTRAP: Continuum image,,ARCHIVED,,,J1933-6211,,,1.694590537226759E-5
+COM-20191128-DH-01,1600344943,MeerTRAP: Continuum image,,ARCHIVED,,,J0835-4510_off,,,2.842218236764893E-5
+COM-20191128-DH-01,1600344943,MeerTRAP: Continuum image,,ARCHIVED,,,J0835-4510,,,4.974873154424131E-4
+COM-20200909-MS-01,1600224060," Imaging of Tau A and its surroundings at UHF-band: Continuum image",,ARCHIVED,,,Tau_A,,,0.03619781509041786
+COM-20200909-MS-01,1600224060," Imaging of Tau A and its surroundings at UHF-band: Continuum image",,ARCHIVED,,,Tau_A_off,,,8.34852980915457E-5
+COM-20200824-MS-01,1600140663,Imaging of Tau A at L-band: Continuum image,,ARCHIVED,,,Tau_A,,,3.839794371742755E-4
+COM-20190710-SG-01,1598912763,Stability track on J0408-6545 for narrowband test c856 NB 32k+4k: Continuum image,,ARCHIVED,,,J0408-6545,,,4.102456659893505E-5
+COM-20190710-SG-01,1598912763,Stability track on J0408-6545 for narrowband test c856 NB 32k+4k: Continuum image,,ARCHIVED,,,J0408-6545,,,1.7498648958280683E-4
+COM-20200824-MS-01,1598416584,Imaging of Tau A surroundings: Continuum image,,ARCHIVED,,,Tau_A_off,,,1.276674447581172E-5
+COM-20190710-SG-01,1598393583,Stability track on J0408-6545 for narrowband test c856 NB 32k+4k: Continuum image,,ARCHIVED,,,J0408-6545,,,5.8563568018143997E-5
+COM-20190710-SG-01,1598393583,Stability track on J0408-6545 for narrowband test c856 NB 32k+4k: Continuum image,,ARCHIVED,,,J0408-6545,,,1.48877632454969E-4
+COM-20200106-SP-01,1597828764,DEEP2 offset: J0358-8103 pipeline 32k testing 19 aug 20 - approx. 1hr on source: Continuum image,,ARCHIVED,,,J0358-8103,,,1.2652365512622055E-5
+COM-20200727-BH-01,1596500462,UHF smearing analysis on J0408-6545: Continuum image,,ARCHIVED,,,J0408-6545,,,8.301265770569444E-4
+COM-20190710-SG-01,1596163435,Standard field for correlator tests [c544M4k]: Continuum image,,ARCHIVED,,,J2147-8132,,,6.788487371522933E-5
+COM-20190710-SG-01,1596158164,Standard field for correlator tests [c856M4k]: Continuum image,,ARCHIVED,,,J2147-8132,,,2.6257726858602837E-5
+COM-20200727-BH-01,1595890859,UHF smearing analysis on J1939-6342: Continuum image,,ARCHIVED,,,J1939-6342,,,4.598244413500652E-5
+COM-20190710-SG-01,1593167454,Calibrator tracks for narrowband test 54 MHz: Continuum image,,ARCHIVED,,,J0408-6545,,,1.076406697393395E-4
+COM-20190710-SG-01,1592993682,Calibrator tracks for narrowband test 107 MHz: Continuum image,,ARCHIVED,,,J0408-6545,,,8.113026706269011E-5
+COM-20191119-GJ-01,1592689262,32K commissioning test: IC 1459: Continuum image,,ARCHIVED,,,J2256-3633,,,3.6294095480116084E-6
+COM-20190710-SG-01,1592228769,Calibrator tracks for narrowband tests: Continuum image,,ARCHIVED,,,J0408-6545,,,1.1489603639347479E-4
+COM-20190710-SG-01,1591960560,Calibrator tracks for narrowband tests: Continuum image,,ARCHIVED,,,J0408-6545,,,1.4103799185249954E-4
+ENG-20200609-KM-01,1591919459,Flux cal test with DEEP2: Continuum image,,ARCHIVED,,,DEEP_2,,,3.1248935101757525E-6
+COM-20191128-DH-01,1591712929,FBFUSE-astrokat testing v2: Continuum image,,ARCHIVED,,,B0835-4510,,,7.84146977821365E-5
+COM-20190710-SG-01,1591364246,Stability track on J0408-6545 for correlator tests - c856 NB 32k+4k copy: Continuum image,,ARCHIVED,,,J0408-6545,,,2.018843952100724E-4
+COM-20190710-SG-01,1591349311,Stability track on J0408-6545 for correlator tests - c856 NB 32k+4k copy: Continuum image,,ARCHIVED,,,J0408-6545,,,9.294771734857932E-5
+COM-20190710-SG-01,1591344970,Standard field for correlator tests (longer) : Continuum image,,ARCHIVED,,,J2147-8132,,,4.2270738049410284E-5
+COM-20190710-SG-01,1591341449,Standard field for correlator tests (longer) : Continuum image,,ARCHIVED,,,J2147-8132,,,4.1767034417716786E-5
+COM-20200106-SP-01,1590569780,DEEP2 offset: J0358-8103 pipeline 32k testing (reobs) copy: Continuum image,,DELETED,,,J0358-8103,,,1.145526948675979E-5
+COM-20190710-SG-01,1590555655,"[64 Antenna, c544M32k WB, 8s] Standard field for correlator tests: Continuum image",,ARCHIVED,,,J2147-8132,,,1.3202140689827502E-4
+COM-20190710-SG-01,1590547878,"[64 Antenna, c544M4k WB, 8s] Standard field for correlator tests (longer): Continuum image",,ARCHIVED,,,J2147-8132,,,9.12043615244329E-5
+COM-20190710-SG-01,1590496253,"Stability track on J0408-6545 for correlator tests - c856M32k, 8s: Continuum image",,DELETED,,,J0408-6545,,,1.3072801812086254E-4
+COM-20190710-SG-01,1590496253,"Stability track on J0408-6545 for correlator tests - c856M32k, 8s: Continuum image",,DELETED,,,J0408-6545,,,9.856177348410711E-5
+COM-20190710-SG-01,1590472348,Stability track on J0408-6545 for correlator tests - c856 NB 32k+4k: Continuum image,,ARCHIVED,,,J0408-6545,,,5.3854015277465805E-5
+COM-20190710-SG-01,1590472348,Stability track on J0408-6545 for correlator tests - c856 NB 32k+4k: Continuum image,,ARCHIVED,,,J0408-6545,,,1.1929882020922378E-4
+COM-20190710-SG-01,1590467454,Stability track on J0408-6545 for correlator tests - c856 NB 32k+4k: Continuum image,,ARCHIVED,,,J0408-6545,,,4.825408977922052E-4
+COM-20190710-SG-01,1590381727,"[64 Antenna, c856M4k_n107M, 8s] Standard field for correlator tests: Continuum image",,ARCHIVED,,,J2147-8132,,,2.7882530048373155E-5
+COM-20190710-SG-01,1590377455,"[64 Antenna, c856M32k WB, 8s] Standard field for correlator tests: Continuum image",,ARCHIVED,,,J2147-8132,,,3.499540616758168E-5
+COM-20190710-SG-01,1590132961,"Stability track on J0408-6545 for correlator tests - c856M4k, 8s: Continuum image",,ARCHIVED,,,J0408-6545,,,5.3623989515472203E-5
+COM-20190710-SG-01,1590132961,"Stability track on J0408-6545 for correlator tests - c856M4k, 8s: Continuum image",,ARCHIVED,,,J0408-6545,,,1.080393631127663E-4
+COM-20190710-SG-01,1590129959,"[64 Antenna, c856M4k WB, 8s] Standard field for correlator tests copy: Continuum image",,ARCHIVED,,,J2147-8132,,,2.9058226573397405E-5
+COM-20200106-SP-01,1589443259,DEEP2 offset: J0358-8103 pipeline 32k testing (reobs) copy: Continuum image,,DELETED,,,J0358-8103,,,1.2576922017615288E-5
+COM-20190710-SG-01,1589001356,Long track on J0408 at UHF for calibration model: Continuum image,,ARCHIVED,,,J0408-6545,,,2.639491285663098E-4
+COM-20200106-SP-01,1588845810,DEEP2 offset: J0358-8103 pipeline 32k testing (reobs): Continuum image,,DELETED,,,J0358-8103,,,8.664191227580886E-6
+COM-20200106-SP-01,1588748217,Deep2 Offset test obs: Continuum image,,DELETED,,,J0358-8103,,,4.785376859217649E-6
+COM-20200324-SG-01,1587767467,Observation of G330.89-0.36 to verify the off-by-1 channel effect in the correlator (54M narrowband): Continuum image,,ARCHIVED,,,G330_89-0_36,,,1.7391850997228175E-4
+COM-20191128-DH-01,1587642213,MeerTRAP - track on B0450-18 and B0450-18_offset: Continuum image,,ARCHIVED,,,B0450-18_offset,,,8.882037946023047E-6
+COM-20191128-DH-01,1587642213,MeerTRAP - track on B0450-18 and B0450-18_offset: Continuum image,,ARCHIVED,,,B0450-18,,,3.903395736415405E-6
+COM-20191119-SP-01,1586545106,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_6,,,1.1228578841837589E-5
+COM-20191119-SP-01,1586545106,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_5,,,1.019678711600136E-5
+COM-20191119-SP-01,1586545106,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_4,,,1.281382174056489E-5
+COM-20191119-SP-01,1586545106,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_3,,,1.0308945093129296E-5
+COM-20191119-SP-01,1586545106,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_2,,,9.839285667112563E-6
+COM-20191119-SP-01,1586545106,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_1,,,9.700068403617479E-6
+COM-20191119-SP-01,1586545106,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_0,,,1.0332074452890083E-5
+COM-20190710-SG-01,1586305859,"Standard field for correlator tests - c856M4k, 8s repeat: Continuum image",,ARCHIVED,,,J2147-8132,,,4.331538002588786E-5
+COM-20190710-SG-01,1586162571,"Standard field for correlator tests - c544M1k, 8s redo: Continuum image",,ARCHIVED,,,J2147-8132,,,8.331605204148218E-5
+COM-20190710-SG-01,1586078244,"Stability track on J0408-6545 for correlator tests - c856M4k, 8s: Continuum image",,ARCHIVED,,,J0408-6545,,,1.399916254740674E-5
+COM-20190710-SG-01,1586074843,"Standard field for correlator tests - c856M4k, 8s: Continuum image",,ARCHIVED,,,J2147-8132,,,4.2590454540913925E-5
+COM-20190710-SG-01,1586070058,"Standard field for correlator tests - c544M4k, 8s: Continuum image",,ARCHIVED,,,J2147-8132,,,1.9806859199889004E-4
+COM-20190710-SG-01,1585992058,"Stability track on J0408-6545 for correlator tests - c856M1k, 8s: Continuum image",,ARCHIVED,,,J0408-6545,,,2.6866768166655675E-5
+COM-20190710-SG-01,1585989326,"Standard field for correlator tests - c856M1k, 8s: Continuum image",,ARCHIVED,,,J2147-8132,,,2.6766118025989272E-5
+COM-20190710-SG-01,1585892940,"Standard field for correlator tests - c544M1k, 8s: Continuum image",,ARCHIVED,,,J2147-8132,,,1.5278180944733322E-4
+COM-20200331-SR-01,1585639854,FRII Imaging: Continuum image,,ARCHIVED,,,DEEP_2_off,,,8.329580850841012E-6
+ENG-20200325-BM-01,1585300908,SDP test: Primary beam correction test: Continuum image,,ARCHIVED,,,J0408-6545_offset_4,,,0.0014492522459477186
+ENG-20200325-BM-01,1585300908,SDP test: Primary beam correction test: Continuum image,,ARCHIVED,,,J0408-6545_offset_3,,,2.6070719468407333E-4
+ENG-20200325-BM-01,1585300908,SDP test: Primary beam correction test: Continuum image,,ARCHIVED,,,J0408-6545_offset_2,,,6.730243912898004E-4
+ENG-20200325-BM-01,1585300908,SDP test: Primary beam correction test: Continuum image,,ARCHIVED,,,J0408-6545_offset_1,,,0.001306498539634049
+ENG-20200325-BM-01,1585300908,SDP test: Primary beam correction test: Continuum image,,ARCHIVED,,,J0408-6545,,,0.0013628053711727262
+COM-20200324-SG-01,1585086665,Observation of G330.89-0.36 to verify the off-by-1 channel effect in the correlator: Continuum image,,ARCHIVED,,,G330_89-0_36,,,1.1504064605105668E-4
+COM-20200313-SM-01,1584577476,To break the 1M:1 dynamic range barrier: Continuum image,,ARCHIVED,,,J1939-6342,,,5.503951615537517E-5
+COM-20200313-SM-01,1584577476,To break the 1M:1 dynamic range barrier: Continuum image,,ARCHIVED,,,J1331_3030,,,6.432798691093922E-4
+COM-20191119-SP-01,1583350275,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_6,,,1.0125977496500127E-5
+COM-20191119-SP-01,1583350275,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_5,,,9.279939149564598E-6
+COM-20191119-SP-01,1583350275,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_4,,,1.1842606909340248E-5
+COM-20191119-SP-01,1583350275,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_3,,,9.68512085819384E-6
+COM-20191119-SP-01,1583350275,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_2,,,9.388661055709235E-6
+COM-20191119-SP-01,1583350275,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_1,,,9.93155026662862E-6
+COM-20191119-SP-01,1583350275,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_0,,,1.0198334166489076E-5
+COM-20191119-SP-01,1583179273,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_6,,,1.01367368188221E-5
+COM-20191119-SP-01,1583179273,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_5,,,9.361437150801066E-6
+COM-20191119-SP-01,1583179273,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_4,,,1.2405223969835788E-5
+COM-20191119-SP-01,1583179273,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_3,,,9.940262316376902E-6
+COM-20191119-SP-01,1583179273,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_2,,,9.430442332813982E-6
+COM-20191119-SP-01,1583179273,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_1,,,1.2642625733860768E-5
+COM-20191119-SP-01,1583179273,M83 32k Narrow-band Commissioning test: Continuum image,,ARCHIVED,,,M83_0,,,1.0344419933971949E-5
+COM-20190904-TF-01,1583151245,Remaining UHF cals: Continuum image,,ARCHIVED,,,J1835-7149,,,1.7492174811195582E-4
+COM-20190904-TF-01,1583151245,Remaining UHF cals: Continuum image,,ARCHIVED,,,J0042-4414,,,0.001416309387423098
+COM-20190904-TF-01,1583151245,Remaining UHF cals: Continuum image,,ARCHIVED,,,J1556-7914,,,0.0020491727627813816
+COM-20190904-TF-01,1583151245,Remaining UHF cals: Continuum image,,ARCHIVED,,,J0943-7620,,,3.2689390354789793E-4
+COM-20200227-SP-01,1583095799,Narrow band Deep2 offset observation: Continuum image,,ARCHIVED,,,J0358-8103,,,7.995841770025436E-6
+COM-20200227-SP-01,1583068006,Narrow band Deep2 offset observation: Continuum image,,ARCHIVED,,,J0358-8103,,,3.94378594137379E-6
+COM-20200106-SP-01,1582735560,DEEP2 offset: J0358-8103 32k testing  new wide-band mode: Continuum image,,DELETED,,,J0358-8103,,,3.840760655293707E-6
+COM-20200212-TM-01,1582496605,COM-20200212-TM-01 Hydra A L-band imaging: Continuum image,,ARCHIVED,,,Hyd_A,,,0.0012936267303302884
+COM-20200212-TM-01,1581545972,COM-20200212-TM-01 Hydra A L-band imaging: Continuum image,,ARCHIVED,,,Hyd_A,,,0.01606885902583599
+COM-20200106-SP-01,1581521775,32k UHF RFI Mask Imaging Test: Continuum image,,ARCHIVED,,,J0358-8103,,,2.6963743948726915E-5
+COM-20200212-TM-01,1581471669,COM-20200212-TM-01 Hydra A UHF-band imaging: Continuum image,,ARCHIVED,,,Hyd_A,,,0.0038541664835065603
+ENG-20191029-TM-03,1580977573,Python3 test: Continuum image,,ARCHIVED,,,DEEP_2,,,1.7574526282260194E-5
+COM-20200106-SP-01,1580554865,DEEP2 offset: J0358-8103 pipeline 32k testing 01/02/2020: Continuum image,,DELETED,,,J0358-8103,,,2.61630111709E-6
+COM-20200106-SP-01,1580296260,DEEP2 offset: J0358-8103 pipeline 4k fluxcal imaging test 29/01/2020: Continuum image,,DELETED,,,J0358-8103,,,1.25549458971E-5
+COM-20191119-GJ-01,1579937344,32K commissioning test: IC 1459: Continuum image,,DELETED,,,J2256-3633,,,1.0803130408E-6
+SE-T_SYS,1579734782,SCP track with noise diode pattern: Continuum image,,ARCHIVED,,,SCP_RaDec_24012020,,,7.23034418115E-6
+ENG-20191029-TM-02,1579612813,Flux Calibration test: Continuum image,,ARCHIVED,,,DEEP_2,,,3.24115262629E-6
+COM-20200106-SP-01,1579367457,DEEP2 offset: J0358-8103 pipeline 32k testing 18/01/2020: Continuum image,,DELETED,,,J0358-8103,,,4.24854846415E-7
+COM-20200106-SP-01,1579191056,32k Test obs.  16 Jan: Continuum image,,DELETED,,,J0100-2700,,,1.09390680336E-6
+COM-20200106-SP-01,1578742861,DEEP2 offset: J0358-8103 pipeline 32k testing 11/01/2020: Continuum image,,DELETED,,,J0358-8103,,,4.38473676923E-7
+COM-20200106-SP-01,1578682458,DEEP2 offset: J0358-8103 pipeline 32k testing 10/01/2020 (Part II): Continuum image,,DELETED,,,J0358-8103,,,7.76234855948E-7
+COM-20200106-SP-01,1578654649,32k Test obs.  : Continuum image,,DELETED,,,J0100-2700,,,0.0
+COM-20200106-SP-01,1578487871,32k Test obs Rerun: Continuum image,,DELETED,,,J0100-2700,,,0.0
